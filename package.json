@@ -1,0 +1,9 @@
+{
+  "name": "snyk-license-test",
+  "version": "1.0.0",
+  "description": "Project for testing Snyk license violations",
+  "dependencies": {
+    "saxon-he": "^12.4.0",
+    "mitm": "^1.7.3"
+  }
+}
