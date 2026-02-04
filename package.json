@@ -1,9 +1,8 @@
 {
   "name": "snyk-license-test",
   "version": "1.0.0",
-  "description": "Project for testing Snyk license violations",
   "dependencies": {
-    "saxon-he": "^12.4.0",
-    "mitm": "^1.7.3"
+    "axe-core": "4.10.2",
+    "jschardet": "1.6.0"
   }
 }
